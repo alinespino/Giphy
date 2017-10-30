@@ -1,0 +1,45 @@
+
+body {
+	background-image: url("../images/background.png");
+}
+
+.giphyck {
+	padding: 25px;
+}
+
+.space {
+	display: inline-block;
+}
+.header {
+	font-family:Arial Narrow, Arial, Century;
+	text-align: center;
+	font-size: 60px;
+	padding: 40px;
+	color: white;
+}
+
+
+label {
+	color:white;
+}
+
+body {
+	font-size: 80px;
+}
+
+
+.giphy{
+	padding: 5px;
+	margin: 0px 10px 10px 10px;
+	font-size: 20px;
+	margin-bottom: 30px;
+
+}
+
+
+#add-btn {
+	margin-top: 30px;
+	padding: 10px;
+	margin-bottom: 15px;
+	text-align: center;
+}

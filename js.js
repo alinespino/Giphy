@@ -1,6 +1,7 @@
 
 
-var gifs = [ "Halloween","Boxing", "Duh", "Stranger things", "Giggle", "Hello", "Work","Oreo", "Traffic", "Funny", "Pizza", "Baller"];
+
+var gifs = [ "halloween","boxing", "duh", "stranger things", "giggle"];
 
 
 
@@ -25,11 +26,11 @@ console.log(response);
 
 
 
-// GIF DISPLAY // 
+// GIF SHOULD DISPLAY // 
 
 for ( var i=0; i < response.data.length; i++) {
 
-var gifDiv = $("<div class='space'>");
+var gifDiv = $("<div>");
 
 var postGif = $("<img class='giphyck'>");
 
